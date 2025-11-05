@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Feedback LALALALALA</title>
+    <title>Feedback </title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         body {
@@ -48,7 +48,7 @@
 <body class="flex justify-center items-center min-h-screen p-4">
 
     <div class="card p-8 rounded-2xl w-full max-w-md shadow-lg">
-        <h1 class="text-2xl font-bold text-center">Cloud Computing 2025💬</h1>
+        <h1 class="text-2xl font-bold text-center">Cloud Computing YEYEYEY</h1>
         <h2 class="text-l font-bold mb-5 text-center text-red-800">Registration Form</h2>
         @if (session('success'))
             <div class="bg-green-100 text-green-800 p-3 rounded mb-4 text-center font-medium">
